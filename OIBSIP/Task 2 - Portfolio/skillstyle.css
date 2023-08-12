@@ -1,0 +1,42 @@
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+
+  
+  /* Skills section styles */
+  .skills, .soft-skills {
+    margin: 2em 0;
+  }
+  
+  h2 {
+    margin-bottom: 1em;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+    font-size: 1.2em;
+  }
+  
+  /* Differentiate the technical skills and soft skills sections */
+  .skills {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .soft-skills {
+    padding-top: 1em;
+  }
+  
